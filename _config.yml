@@ -83,7 +83,7 @@ author:
   name             : "Hui Jin"
   avatar           : "profile.png"
   bio              : ""
-  location         : ""
+  location         : # ""
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eicCkOkAAAAJ&hl=en"
