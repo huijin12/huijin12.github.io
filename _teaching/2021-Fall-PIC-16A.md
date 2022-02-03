@@ -1,5 +1,5 @@
 ---
-title: "2021-Fall-PIC-16A"
+title: "2021 Fall: PIC 16A Python with Applications I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-Fall-PIC-16A
