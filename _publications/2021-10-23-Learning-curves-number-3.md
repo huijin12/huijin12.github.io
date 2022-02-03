@@ -1,7 +1,7 @@
 ---
 title: "Learning curves for Gaussian process regression with power-law priors and targets"
 collection: publications
-permalink: /publication/2021-10-23-paper-title-number-3
+permalink: /publication/2021-10-23-Learning-curves-number-3
 date: 2021-10-23
 venue: 'To appear, The Tenth International Conference on Learning Representations (ICLR 2022).'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
