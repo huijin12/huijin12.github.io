@@ -3,7 +3,7 @@ title: "Learning curves for Gaussian process regression with power-law priors an
 collection: publications
 permalink: /publication/2021-10-23-Learning-curves-number-3
 date: 2021-10-23
-venue: 'To appear, The Tenth International Conference on Learning Representations (ICLR 2022).'
+venue: 'To appear, The Tenth International Conference on Learning Representations (ICLR 2022)'
 author: Hui Jin, Pradeep Kr Banerjee, Guido Montúfar
 paperurl: 'https://arxiv.org/pdf/2110.12231'
 ---
