@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019-12-09-Noisy-Subgraph-number-1
 date: 2019-12-09
 venue: 'Published in 2019 IEEE International Conference on Big Data (Big Data)'
+author: Hui Jin, Xie He, Yanghui Wang, Hao Li, Andrea L Bertozzi
 paperurl: 'https://www.math.ucla.edu/~bertozzi/papers/HuiJin-UCLA-Final-BIGDATA2019.pdf'
 ---
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
