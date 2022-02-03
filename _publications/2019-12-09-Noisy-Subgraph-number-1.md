@@ -3,7 +3,7 @@ title: "Noisy Subgraph Isomorphisms on Multiplex Networks"
 collection: publications
 permalink: /publication/2019-12-09-Noisy-Subgraph-number-1
 date: 2019-12-09
-venue: '2019 IEEE International Conference on Big Data (Big Data)'
+venue: 'Published in 2019 IEEE International Conference on Big Data (Big Data)'
 paperurl: 'https://www.math.ucla.edu/~bertozzi/papers/HuiJin-UCLA-Final-BIGDATA2019.pdf'
 ---
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
