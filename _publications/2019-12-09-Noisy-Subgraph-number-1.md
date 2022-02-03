@@ -2,7 +2,7 @@
 title: "Noisy Subgraph Isomorphisms on Multiplex Networks"
 collection: publications
 permalink: /publication/2019-12-09-Noisy-Subgraph-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2019-12-09
 venue: '2019 IEEE International Conference on Big Data (Big Data)'
 paperurl: 'https://www.computer.org/csdl/proceedings-article/big-data/2019/09005645/1hJrOpGmfNm'
