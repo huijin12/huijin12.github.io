@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-10-23-Learning-curves-number-3
 date: 2021-10-23
 venue: 'To appear, The Tenth International Conference on Learning Representations (ICLR 2022).'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/pdf/2110.12231'
 ---
 
 <!-- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' -->
