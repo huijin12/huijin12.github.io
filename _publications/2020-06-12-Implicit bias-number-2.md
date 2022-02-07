@@ -3,7 +3,7 @@ title: "Implicit bias of gradient descent for mean squared error regression with
 collection: publications
 permalink: 2020-06-12-Implicit bias-number-2
 date: 2020-06-12
-venue: 'Preprint, Submitted to JMLR'
+venue: 'Preprint, Submitted'
 author: Hui Jin, Guido Montúfar
 paperurl: 'https://arxiv.org/pdf/2006.07356.pdf'
 ---
