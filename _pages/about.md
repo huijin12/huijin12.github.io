@@ -12,7 +12,7 @@ Hi, I'm a PhD candidate at [UCLA Math Department](https://ww3.math.ucla.edu), ad
 
 Education
 ======
-* Ph.D. candidate, Department of Mathematics, University of California, Los Angeles, Dec 2022 (expected)
+* Ph.D. candidate, Department of Mathematics, University of California, Los Angeles, expected Dec 2022 
 * B.S., School of Mathematical Sciences, Peking University, Jul 2017
 
 Publication
