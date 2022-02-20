@@ -57,8 +57,10 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.paperurl and post.slideurl %}
+      <p>Download <a href=" {{ post.paperurl }} ">[pdf]</a>, <a href=" {{ post.slideurl }} ">[slide]</a>.</p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download <a href=" {{ post.paperurl }} ">[pdf]</a>.</p>
     {% endif %}
 
   </article>
