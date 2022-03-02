@@ -49,9 +49,9 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% elsif page.paperurl and page.slideurl %}
-          <p>Download <a href=" {{ post.paperurl }} ">[pdf]</a>, <a href=" {{ post.slideurl }} ">[slide]</a>.</p>
+          <p>Download <a href=" {{ page.paperurl }} ">[pdf]</a>, <a href=" {{ page.slideurl }} ">[slide]</a>.</p>
         {% elsif page.paperurl %}
-          <p>Download <a href=" {{ post.paperurl }} ">[pdf]</a>.</p>
+          <p>Download <a href=" {{ page.paperurl }} ">[pdf]</a>.</p>
         {% endif %}
     
         </header>
