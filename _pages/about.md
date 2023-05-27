@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD candidate at [UCLA Math Department](https://ww3.math.ucla.edu), advised by Professor [Guido Montufar](https://www.math.ucla.edu/~montufar/). My research mainly focuses on Mathematical Machine Learning and Deep Learning Theory. Here is my [resume](https://huijin12.github.io/files/Hui_Jin_resume3.pdf).
+Hi, I got my Ph.D. degree at [UCLA Math Department](https://ww3.math.ucla.edu), advised by Professor [Guido Montufar](https://www.math.ucla.edu/~montufar/). My research mainly focuses on Mathematical Machine Learning and Deep Learning Theory. Here is my [resume](https://huijin12.github.io/files/Hui_Jin_resume3.pdf).
 
 Education
 ======
-* Ph.D. candidate, Department of Mathematics, University of California, Los Angeles, expected Dec 2022 
+* Ph.D., Department of Mathematics, University of California, Los Angeles, Dec 2022 
 * B.S., School of Mathematical Sciences, Peking University, Jul 2017
 
 Publication
