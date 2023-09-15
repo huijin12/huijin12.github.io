@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-07-Characterizing-the-Spectrum-number-4
 date: 2022-11-07
 venue: 'Published in The Tenth International Conference on Learning Representations (ICLR 2023)'
-author: Hui Jin, Xie He, Yanghui Wang, Hao Li, Andrea L Bertozzi
+author: Michael Murray, Hui Jin, Benjamin Bowman, Guido Montufar
 paperurl: 'https://arxiv.org/pdf/2211.07844.pdf'
 ---
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
