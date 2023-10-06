@@ -3,7 +3,7 @@ title: "Characterizing the Spectrum of the NTK via a Power Series Expansion"
 collection: publications
 permalink: /publication/2022-11-07-Characterizing-the-Spectrum-number-4
 date: 2022-11-07
-venue: 'Published in The Tenth International Conference on Learning Representations (ICLR 2023)'
+venue: 'Published in The Eleventh International Conference on Learning Representations (ICLR 2023)'
 author: Michael Murray, Hui Jin, Benjamin Bowman, Guido Montufar
 paperurl: 'https://arxiv.org/pdf/2211.07844.pdf'
 ---
