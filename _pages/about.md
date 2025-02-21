@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/0d9804b3-0c15-4701-9ad8-cd4acafe0f41)---
 permalink: /
 title: 
 excerpt: "About me"
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I got my Ph.D. degree at [UCLA Math Department](https://ww3.math.ucla.edu), advised by Professor [Guido Montufar](https://www.math.ucla.edu/~montufar/). My research mainly focuses on Mathematical Machine Learning and Deep Learning Theory. Here is my [resume](https://huijin12.github.io/files/Hui_Jin_resume3.pdf).
+Hi, I am currently an AI researcher at Huawei Noah’s Ark Lab. I got my Ph.D. degree at [UCLA Math Department](https://ww3.math.ucla.edu), advised by Professor [Guido Montufar](https://www.math.ucla.edu/~montufar/). My research mainly focuses on Large Language Models, Mechanistic Interpretability and Deep Learning Theory. Here is my [resume](https://huijin12.github.io/files/Hui_Jin_resume3.pdf).
 
 Education
 ======
